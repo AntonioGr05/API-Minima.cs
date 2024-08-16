@@ -59,3 +59,9 @@ app.MapDelete("/todos/{id}", (int id) => {});
 ```
 
 La misma funcionalidad sigue estando ahí. Configurará igualmente una base de datos y CORS y agregará la autenticación de la forma habitual.
+
+## Capturas de pantalla
+
+![EndPoins](./img/Captura%20de%20pantalla%202024-08-16%20122613.png)
+
+![GetPizzas](./img/get.png)
